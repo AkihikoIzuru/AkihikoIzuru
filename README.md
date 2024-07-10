@@ -1,12 +1,18 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://cdn.discordapp.com/attachments/1167870425393545237/1260649694665768983/download_4_1.jpeg?ex=66901704&is=668ec584&hm=20a2420d084075df33a3c197de000fa22197348b678400b780c81f01696fae5f&"  />
+  <img height="350" src="https://cdn.discordapp.com/attachments/1167870425393545237/1260649694665768983/download_4_1.jpeg?ex=66901704&is=668ec584&hm=20a2420d084075df33a3c197de000fa22197348b678400b780c81f01696fae5f&"  />
 </div>
 
 ###
 
 <div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AkihikoIzuru.AkihikoIzuru&"  />
 </div>
 
 ###
@@ -93,7 +99,15 @@
 
 ###
 
-<h3 align="left">My Stats :</h3>
+<h5 align="left">Social Link:</h5>
+
+###
+
+<div align="left">
+  <a href="discordapp.com/users/979359059272691712" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
@@ -105,10 +119,23 @@
 
 ###
 
-<div align="left">
-  <a href="discordapp.com/users/979359059272691712" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+<h3 align="left">My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AkihikoIzuru&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkihikoIzuru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkihikoIzuru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AkihikoIzuru/AkihikoIzuru/output/snake.svg" alt="Snake animation" />
 
 ###
