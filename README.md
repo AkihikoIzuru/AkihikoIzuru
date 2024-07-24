@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Akii from Indonesian<br><br>- 🔭 I’m currently learning ReactJS<br>- ⚡ Fun fact saya orang yang sering kena NT.</p>
+<p align="left">I'm Akii from Indonesian<br><br>- 🔭 I’m currently learning ReactJS, NextJS, TypeScript, JavaScript<br>- ⚡ Fun fact saya orang yang sering kena NT.</p>
 
 ###
 
