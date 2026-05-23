@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on ReactJS<br>🌱 I’m currently learning ReactJS, NextJS, ElysiaJS, TypeScript, JavaScript<br>⚡ Fun fact saya orang yang sering kena NT.
+🔭 I’m currently working on ReactJS<br>🌱 I’m currently learning ReactJS, NextJS, ElysiaJS, TypeScript, JavaScript<br>⚡ Fun fact saya orang yang sering kena NT.br>⚡ GAJADI NT DAPET MY KISAH JIERRR.
+
 
 
 ## 🌐 Socials:
